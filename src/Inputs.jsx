@@ -22,7 +22,7 @@ const Inputs = ({addContact}) => {
         setPhone('');
         setEmail('');
 
-        console.log(contacts);
+
     
     };
 

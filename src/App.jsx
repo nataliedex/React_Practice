@@ -16,8 +16,6 @@ const App = () => {
       <Greeting />
       <ExpenseGroup />
       <Card />
-      
-
 
       <Footer />
     </div>
