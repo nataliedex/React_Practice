@@ -7,7 +7,7 @@ const Footer = () => {
 
   return (
     <div>
-        <p>Written by {name}</p>
+        <p>Written by me, {name}</p>
         <p>Copywrite {year}</p>
     </div>
   )
